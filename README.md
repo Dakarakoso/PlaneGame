@@ -12,7 +12,7 @@
 <br/>
 </p>
 
-### PLAY
+### PLAY LIVE
 
 https://dakarakoso.github.io/PlaneGame/
 
