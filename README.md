@@ -14,8 +14,7 @@
 
 ### PLAY LIVE
 
-https://dakarakoso.github.io/PlaneGame/
-
+https://Plane.mrrobot1234.repl.co
 <!-- TABLE OF CONTENTS -->
 
 ## Table of contents
